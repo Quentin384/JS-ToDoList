@@ -74,6 +74,8 @@ Démo orale
 
 Slides simples (si nécessaire)
 
+---
+
 📌 Auteurs
 
 👨‍💻 Réalisé par : Quentin – Étudiant développeur Fullstack Java / JS
