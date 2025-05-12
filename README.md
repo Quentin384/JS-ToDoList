@@ -2,6 +2,9 @@
 
 Développer une application ToDoList simple en JavaScript natif, sans persistance des données, afin de mettre en œuvre les principes de la programmation orientée objet (POO) dans un cadre HTML/CSS minimal.
 
+👉 Pour essayer MyToDoList :
+https://quentin384.github.io/JS-ToDoList/
+
 ---
 
 🧠 Compétences visées
